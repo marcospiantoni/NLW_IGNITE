@@ -1,29 +1,3 @@
- NLW IGNITE
-💻 Projeto
-Aplicação para participar de bolões da Copa do Mundo 2022.
-
-✨ Tecnologia
-TypeScript
-React
-React Native
-Expo
-Fastify
-Prisma
-E muitas outras…
-🚀 Como executar
-Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
-
-Acesse a documentação de cada projeto:
-
-Backend
-Web
-Mobile
-🔖 Layout
-Você pode visualizar o layout do projeto através do link abaixo:
-
-Layout
-Lembrando que você precisa ter uma conta no Figma.
-
 ![image](https://user-images.githubusercontent.com/100890415/203400837-cc867661-7d93-4217-9e13-23879190c06c.png)
 
 ![modal](https://user-images.githubusercontent.com/100890415/203398816-02450421-bdf9-46d4-ae7c-e1a0b3bc6c18.png)
@@ -37,3 +11,29 @@ Lembrando que você precisa ter uma conta no Figma.
 ![guesses](https://user-images.githubusercontent.com/100890415/203399331-fd5d9697-e809-4a5e-ac87-54c661bd3335.png)
 
 ![svg](https://user-images.githubusercontent.com/100890415/203399448-a85661dd-a542-4287-ac7a-d2c722e6efa3.jpeg)
+
+> Status: Projeto finalizado ✔️
+
+## 💻 Projeto
+
+Aplicação para participar de bolões da Copa do Mundo 2022.
+
+## ✨ Tecnologias
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- E muitas outras…
+
+## 🚀 Como executar
+Para que esse projeto funcione corretamente, é preciso estar com o servidor rodando.
+
+Instale os pacotes com npm install.
+Execute npm run dev para iniciar o cliente web.
+
+
+Email : marcospiantoni360@gmail.com
+Linkedin: www.linkedin.com/in/marcospiantoni
