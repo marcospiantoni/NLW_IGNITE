@@ -1,5 +1,28 @@
  NLW IGNITE
-Projeto da Rocketseat - NLW trilha ignite
+💻 Projeto
+Aplicação para participar de bolões da Copa do Mundo 2022.
+
+✨ Tecnologia
+TypeScript
+React
+React Native
+Expo
+Fastify
+Prisma
+E muitas outras…
+🚀 Como executar
+Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
+
+Acesse a documentação de cada projeto:
+
+Backend
+Web
+Mobile
+🔖 Layout
+Você pode visualizar o layout do projeto através do link abaixo:
+
+Layout
+Lembrando que você precisa ter uma conta no Figma.
 
 ![image](https://user-images.githubusercontent.com/100890415/203400837-cc867661-7d93-4217-9e13-23879190c06c.png)
 
